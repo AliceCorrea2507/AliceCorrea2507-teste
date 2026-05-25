@@ -3,3 +3,14 @@ background-color:#0f6bc7 ;
 
 
 }
+
+
+.capa{
+    color: darkgray;
+    font-size:20px;
+}
+
+#atleta{
+    display: flex;
+    padding-left: 200px;
+}
